@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
-import Message from "./components/Message";
-import PromptForm from "./components/PromptForm";
-import Sidebar from "./components/Sidebar";
+import Message from "./Components/Message";
+import PromptForm from "./Components/PromptForm";
+import Sidebar from "./Components/Sidebar";
 import { Menu } from "lucide-react";
 const App = () => {
     // Main app state
